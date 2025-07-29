@@ -1,0 +1,3 @@
+- Board : TTGO LoRa32 T3_V1.6
+- Activation : OTAA
+- Class : maybe A or C im not sure.
