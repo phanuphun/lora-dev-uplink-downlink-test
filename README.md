@@ -8,4 +8,4 @@
 |  Txack | -   |  - | OK  |  OK  | OK  |
 |  Ack | -   | -  |  -  |-  | -|
 |  Join |  -  | -  |  -  | - |- |
-|  Join |  OK  | OK  |  OK  | OK |OK |
+|  Up |  OK  | OK  |  OK  | OK |OK |
